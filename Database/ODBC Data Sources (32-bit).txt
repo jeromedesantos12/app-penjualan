@@ -1,0 +1,29 @@
+Connector/ODBC - Login
+
+VB.Net Application
+
+Server
+Data Sources Name	: konek_dbpenjualan
+Description		: -
+Server			: 127.0.0.1
+User			: root
+Password		: -
+Database		: db_penjualan
+
+Client
+Data Sources Name	: konek_dbpenjualan
+Description		: -
+Server			: 192.168.10.1
+User			: solusindo
+Password		: 123
+Database		: db_penjualan
+
+Crystal Report
+
+Server
+Data Sources Name	: tech_dbkampus
+Description		: -
+Server			: -
+User			: root
+Password		: -
+Database		: db_penjualan

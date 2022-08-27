@@ -1,0 +1,798 @@
+D:\VB Net\Project\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 3\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 4\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 5\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 6\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 7\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 8\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 9\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 10\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 10.1\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 11\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 12\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 13\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 14\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 15\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 16\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 17\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 17 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 18 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 19 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 20 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 21 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 22 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 23 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 24 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 25 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 26 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 27 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapPerJual.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapPerJual.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 28 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapPerJual.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 29 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapPerJual.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 30 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapPerJual.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 31 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 32 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 32 - Final - Backup\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 32 - Final - Backup 2\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 34 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 35 - Final\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 39 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 42 - Final - SERVER - LAPJUAL\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 43 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 3.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDO.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapInvoice.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+D:\VB Net\Project 44 - Final - SERVER - LAPJUAL - 4.0\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
